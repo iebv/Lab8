@@ -1,0 +1,4 @@
+• The notion of complete coverage can also be applied to functional testing
+• Rigorous specifications have another benefit,they help functional testing, e.g.,categorize inputs,derive expected outputs
+• In other words, they help test case generation and test oracles
+Based on the definition of what a program’s specification, as opposed to its structure
